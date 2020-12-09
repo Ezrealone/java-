@@ -68,7 +68,7 @@ class HardDisk {
 
 ## 实验过程
 
-1.首先创建Test主类。 
+1.首先创建Test主类,实例化cpu，Harddisk，PC。
   
 2.创建CPU类,getSpeed()返回speed的值，setSpeed将参数m的值赋值给speed。 
   
